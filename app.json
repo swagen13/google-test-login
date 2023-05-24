@@ -15,16 +15,27 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.issarapap.googletestlogin"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.issarapap.googletestlogin",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c37ce476-68e1-4ee1-887a-985573e1da47"
+      }
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ]
   }
 }

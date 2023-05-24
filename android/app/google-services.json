@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "920885184027",
+    "project_id": "login-7fbe9",
+    "storage_bucket": "login-7fbe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920885184027:android:b84efb0ac361988c7fdabe",
+        "android_client_info": {
+          "package_name": "com.issarapap.googlelogintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920885184027-9sqokknpkheh7pqb8i0inha3u4rjk4o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issarapap.googlelogintest",
+            "certificate_hash": "46a0ab6f786974f7f30d57957e869dc23eadaa24"
+          }
+        },
+        {
+          "client_id": "920885184027-aqfar5ki2bvoj9anc36jeum3hv15b1pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issarapap.googlelogintest",
+            "certificate_hash": "041c27f0600905116ba883976bf222cc6659a3f7"
+          }
+        },
+        {
+          "client_id": "920885184027-agd83oaipqa7is9hauao9u2qblgpdgi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfT3JvH8eh3AJVIRXD-SHYgvxEqA9RW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920885184027-agd83oaipqa7is9hauao9u2qblgpdgi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920885184027:android:8caeed3f2ce2c32c7fdabe",
+        "android_client_info": {
+          "package_name": "com.issarapap.googletestlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920885184027-84ftkgarcvfjcrf1p4mubscuc20mro5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.issarapap.googletestlogin",
+            "certificate_hash": "eb6758f6cf1aca012959cdf459cf5f7fda24f327"
+          }
+        },
+        {
+          "client_id": "920885184027-agd83oaipqa7is9hauao9u2qblgpdgi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfT3JvH8eh3AJVIRXD-SHYgvxEqA9RW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920885184027-agd83oaipqa7is9hauao9u2qblgpdgi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
